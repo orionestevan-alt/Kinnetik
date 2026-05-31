@@ -1,0 +1,6 @@
+{
+  "name": "Kinetic Sportswear",
+  "description": "Premium world-class luxury sportswear e-commerce storefront featuring high-fidelity visuals, precise product filter, wishlist, quick view, cart, order tracking, and clean minimalist dark-mode aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
